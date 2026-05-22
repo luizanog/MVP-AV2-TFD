@@ -1,0 +1,6 @@
+{
+  "name": "TrendClarity",
+  "description": "A high-end modern corporate discovery studio for biotechnology, artificial intelligence, and generative design aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
